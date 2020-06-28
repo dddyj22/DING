@@ -1,2 +1,2 @@
 # DING
-Ctrl+C and Ctrl+V
+SKILL:Ctrl+C and Ctrl+V
